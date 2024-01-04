@@ -27,7 +27,7 @@
     <bpm>126</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="bh7.mp4" size="52398539" type="video/mp4">c5743e59f10fde4843eee2df73ae38d7767bc92c42406e39244ab2e1fdd77779</video>
+    <video name="nh2.mp4" size="23515028" type="video/mp4">6ea3c45ea87e9b0ba61038f630f8a0aed75ebca3fadcf0a13d50e95e708dec99</video>
     <notes>
       <note number="1" values="1" ticks="337" durationTicks="94" ppq="192" velocity="0.296"/>
       <note number="2" values="18" ticks="433" durationTicks="87" ppq="192" velocity="0.274"/>
