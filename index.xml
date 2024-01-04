@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>t-octaves</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="stolbitsa" repo="tonic-harmonic"/>
   <readme>
     <ru>54aa0505992cc59f63fa259cc763c29d83872754d5e68ba49cdb7ac064f9d8d9</ru>
@@ -14,6 +14,7 @@
     <bpm>126</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <video name="pexels-ruvim-miksanskiy-8152811 (1080p).mp4" size="9157204" type="video/mp4">ffb0d91ff45c55f428a113519908e95cded333ba995efac18a3d6066c1df3c8f</video>
     <notes>
       <note number="1" values="1" ticks="96" durationTicks="94" ppq="192" velocity="0.704"/>
       <note number="2" values="18" ticks="195" durationTicks="87" ppq="192" velocity="0.689"/>
