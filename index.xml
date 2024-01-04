@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>t-octaves</repo>
-  <version>v1.0.4</version>
+  <version>v1.0.5</version>
   <next number="1" owner="stolbitsa" repo="tonic-harmonic"/>
   <readme>
     <ru>54aa0505992cc59f63fa259cc763c29d83872754d5e68ba49cdb7ac064f9d8d9</ru>
@@ -26,7 +26,7 @@
     <bpm>126</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="MasterAndServant1.mp4" size="127146" type="video/mp4">1b62cb762ce1efb4f831f142c8c3c1d8ef4b95846bc448558b87aca9a5792526</video>
+    <video name="pexels-marina-zasorina-9354231 (1080p).mp4" size="11175893" type="video/mp4">80b74eb51433cf390db1d735013c0be5ea35ba169c3c1c5a8ac90940e7f09c81</video>
     <notes>
       <note number="1" values="1" ticks="337" durationTicks="94" ppq="192" velocity="0.296"/>
       <note number="2" values="18" ticks="433" durationTicks="87" ppq="192" velocity="0.274"/>
