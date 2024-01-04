@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>t-octaves</repo>
-  <version>v1.0.9</version>
+  <version>v1.0.10</version>
   <next number="1" owner="stolbitsa" repo="tonic-harmonic"/>
   <readme>
     <ru>54aa0505992cc59f63fa259cc763c29d83872754d5e68ba49cdb7ac064f9d8d9</ru>
@@ -14,7 +14,7 @@
     <bpm>126</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="np4.mp4" size="1276442" type="video/mp4">8bbc067e715282f72c8916f301e0aa751bb76eb99e08b5388b82c818ee12ed84</video>
+    <video name="0-02-05-593408525124cda5a799d8d536c7644a6db1364d34024e609f4443f41e07ef03_8eea464f268bac3c.mp4" size="528780" type="video/mp4">d52312e18d9545a3db1b766a81f8e6ec9e22d6291b9608a40c695a9853d77526</video>
     <notes>
       <note number="1" values="1" ticks="96" durationTicks="94" ppq="192" velocity="0.704"/>
       <note number="2" values="18" ticks="195" durationTicks="87" ppq="192" velocity="0.689"/>
@@ -70,7 +70,7 @@
     <bpm>126</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="Untitled Project4.mp4" size="4069084" type="video/mp4">da0545fc72485c020c9cc31dc2978b0961a787b43c45b8470fff1a68456223dd</video>
+    <video name="pexels-kabbo-talukder-6405813 (1080p).mp4" size="5330645" type="video/mp4">e35a8075144f67257da479364961ed24c4cc3e468b97bfe43b12375b3e72a4d5</video>
     <notes>
       <note number="1" values="1" ticks="96" durationTicks="94" ppq="192" velocity="0.704"/>
       <note number="2" values="18" ticks="195" durationTicks="87" ppq="192" velocity="0.689"/>
