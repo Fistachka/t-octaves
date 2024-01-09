@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>t-octaves</repo>
-  <version>v1.0.25</version>
+  <version>v1.0.26</version>
   <next number="1" owner="stolbitsa" repo="tonic-harmonic"/>
   <readme>
     <ru>d94996801cb6fd7d495b11258a57b6f1e2f76db0f907ab3c4df52499615bb237</ru>
@@ -29,9 +29,9 @@
     <tonalities>1</tonalities>
     <video name="1.mp4" size="671118" type="video/mp4">51e7eb8ef50290ec37b10b5a2d57d0d3ba23f8df1c3d7c71408adb6c733a7833</video>
     <notes>
-      <note number="1" values="1" ticks="337" durationTicks="94" ppq="192" velocity="0.669"/>
+      <note number="1" values="1" ticks="337" durationTicks="94" ppq="192" velocity="0.651"/>
       <note number="2" values="18" ticks="433" durationTicks="87" ppq="192" velocity="0.724"/>
-      <note number="3" values="18" ticks="530" durationTicks="94" ppq="192" velocity="0.724"/>
+      <note number="3" values="18" ticks="530" durationTicks="94" ppq="192" velocity="0.729"/>
       <note number="4" values="1" ticks="625" durationTicks="97" ppq="192" velocity="0.666"/>
       <note number="5" values="18" ticks="724" durationTicks="96" ppq="192" velocity="0.722"/>
       <note number="6" values="1" ticks="821" durationTicks="94" ppq="192" velocity="0.661"/>
