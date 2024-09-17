@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>t-octaves</repo>
-  <version>v1.0.44</version>
+  <version>v1.0.45</version>
   <next number="1" owner="stolbitsa" repo="tonic-harmonic"/>
   <readme>
-    <ru>7124bcceabf4bc456c5f1671a22cb24ac5829e3403a62a7001acfa250c27c761</ru>
-    <en>abf9ba9d29c6ddeb61e3dd9098dfec36e8fe48c74bab5c7f445b243eb6eebf73</en>
+    <ru>64cc083bba1f6c55ab4fe3e9ff8fad51775ee185757e37dba8516d2b170120ce</ru>
+    <en>533f6546f46704f4b73fa3259364709416e1b7e9d1cfeafc3b5dfa6f14dbad33</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
