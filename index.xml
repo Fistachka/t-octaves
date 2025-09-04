@@ -2,8 +2,8 @@
 <level>
   <owner>Fistachka</owner>
   <repo>t-octaves</repo>
-  <version>v1.0.45</version>
-  <next number="1" owner="stolbitsa" repo="tonic-harmonic"/>
+  <version>v1.0.46</version>
+  <next number="1" owner="fistachka" repo="time"/>
   <readme>
     <ru>64cc083bba1f6c55ab4fe3e9ff8fad51775ee185757e37dba8516d2b170120ce</ru>
     <en>533f6546f46704f4b73fa3259364709416e1b7e9d1cfeafc3b5dfa6f14dbad33</en>
