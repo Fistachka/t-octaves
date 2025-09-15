@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>t-octaves</repo>
-  <version>v1.0.47</version>
+  <version>v1.0.48</version>
   <next number="1" owner="fistachka" repo="time"/>
   <readme>
-    <ru>e1016a440d7463a9be3d18dee482a323337c2e11abb0361e137918fb719a69bd</ru>
-    <en>c555c43cbbad0571e51bce1a8ae2fc40900826880dc248dce43cef0b3f392654</en>
+    <ru>3e4654af4a7ae142d59e73ea3c34e7bb404e59f0168ebcebb0865dc24ea93179</ru>
+    <en>38b6f830b0bda0979a895967b1715fad9be05cfff2a0d92531820b594d79148b</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
