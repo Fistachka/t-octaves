@@ -9,7 +9,7 @@
 Прочтите еще раз описание тоники, насколько оно гармонично.
 Закрепим еще раз этот навык. 
 
-Предыдущий урок: stolbitsa.com/fistachka/hause<br><br>
+Предыдущий урок: stolbitsa.com/fistachka/house<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
@@ -20,5 +20,5 @@ Tonica
 The tonic in music is the main pillar, the bearer of balance, a sign of completeness, it appears in moments of peace, and also, being the first step, determines the actual tonality, that is, the pitch position of the mode.
 Source: https://music-education.ru/
 
-Previous lesson: stolbitsa.com/fistachka/hause<br><br>
+Previous lesson: stolbitsa.com/fistachka/house<br><br>
 
